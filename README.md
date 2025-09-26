@@ -40,7 +40,7 @@ The second assumption means that at sufficiently large positive lags (beyond the
 ## Citation
 
 
-- Lubis, Sandro W., and Pedram Hassanzadeh. " An Eddy–Zonal Flow Feedback Model for Propagating Annular Modes", Journal of the Atmospheric Sciences 78, 1 (2021): 249-267, accessed Jun 8, 2021,([url](https://doi.org/10.1175/JAS-D-20-0214.1))<details><summary>BibTeX</summary><pre>
+- Lubis, Sandro W., and Pedram Hassanzadeh.(2021). " An Eddy–Zonal Flow Feedback Model for Propagating Annular Modes", Journal of the Atmospheric Sciences 78, 1 : 249-267, accessed Jun 8, 2021,([url](https://doi.org/10.1175/JAS-D-20-0214.1))<details><summary>BibTeX</summary><pre>
 @article { Lubis_AMS_2021,
       author = {Sandro W. Lubis and Pedram Hassanzadeh},
       title = {An Eddy–Zonal Flow Feedback Model for Propagating Annular Modes},
@@ -55,7 +55,7 @@ The second assumption means that at sufficiently large positive lags (beyond the
       url = "https://journals.ametsoc.org/view/journals/atsc/78/1/jas-d-20-0214.1.xml"
 }</pre></details>
 
-- Lubis, Sandro W., and Pedram Hassanzadeh. *"The Intrinsic 150-Day Periodicity of the Southern Hemisphere Extratropical Large-Scale Atmospheric Circulation,"* AGU Advances 4, 3 (2023): e2022AV000833, accessed Sep 26, 2025, ([url](https://doi.org/10.1029/2022AV000833))  
+- Lubis, Sandro W., and Pedram Hassanzadeh.(2023). *"The Intrinsic 150-Day Periodicity of the Southern Hemisphere Extratropical Large-Scale Atmospheric Circulation,"* AGU Advances 4, 3 : e2022AV000833, accessed Sep 26, 2025, ([url](https://doi.org/10.1029/2022AV000833))  
 <details><summary>BibTeX</summary><pre>
 @article { Lubis_AGUAdv_2023,
       author = {Sandro W. Lubis and Pedram Hassanzadeh},
