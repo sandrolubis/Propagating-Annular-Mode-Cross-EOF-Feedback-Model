@@ -54,3 +54,20 @@ The second assumption means that at sufficiently large positive lags (beyond the
       pages= {249 - 267},
       url = "https://journals.ametsoc.org/view/journals/atsc/78/1/jas-d-20-0214.1.xml"
 }</pre></details>
+
+- Lubis, Sandro W., and Pedram Hassanzadeh. *"The Intrinsic 150-Day Periodicity of the Southern Hemisphere Extratropical Large-Scale Atmospheric Circulation,"* AGU Advances 4, 3 (2023): e2022AV000833, accessed Sep 26, 2025, ([url](https://doi.org/10.1029/2022AV000833))  
+<details><summary>BibTeX</summary><pre>
+@article { Lubis_AGUAdv_2023,
+      author = {Sandro W. Lubis and Pedram Hassanzadeh},
+      title = {The Intrinsic 150-Day Periodicity of the Southern Hemisphere Extratropical Large-Scale Atmospheric Circulation},
+      journal = {AGU Advances},
+      year = {2023},
+      publisher = {American Geophysical Union},
+      address = {Washington, DC, USA},
+      volume = {4},
+      number = {3},
+      doi = {10.1029/2022AV000833},
+      pages= {e2022AV000833},
+      url = "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022AV000833"
+}</pre></details>
+
